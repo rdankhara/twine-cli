@@ -1,0 +1,24 @@
+{
+  "name": "twine-cli",
+  "version": "1.0.0",
+  "description": "command line interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tiwne": "./bin/twine.js",
+    "jira": "./bin/jira.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdankhara/twine-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdankhara/twine-cli/issues"
+  },
+  "homepage": "https://github.com/rdankhara/twine-cli#readme"
+}
